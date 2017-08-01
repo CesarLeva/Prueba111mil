@@ -1,0 +1,12 @@
+//Esto se usa para probar Github
+
+funcion getUser(id:entero):String
+  line code1
+  
+  line code2
+  
+  line code3
+
+
+
+fin funcion
