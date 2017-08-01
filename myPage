@@ -8,7 +8,6 @@ funcion getUser(id:entero):String
   line code3
   
   linecode4
-
-line code6
+  line code6
 
 fin funcion
